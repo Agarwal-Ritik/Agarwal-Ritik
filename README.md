@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Structures algorithms and DataBase.
+- 📫 Let's Connect: www.linkedin.com/in/ritik-agarwal-
+
 
 <details>
 <summary> 🔭 My first year projects </summary>
-      | Languages/Technologies | Projects      |
-      |-----------------------:|---------------|
-      | HTML and CSS           | Spotify Clone |
-      | HTML and CSS           | Blog page     |
-      | C++                    | Budget Manager|
+      | Languages/Technologies |    Projects    |
+      |-----------------------:|----------------|
+      | HTML and CSS           | Spotify Clone  |
+      | HTML and CSS           | Blog page      |
+      | C++                    | Budget Manager |
 
 </details>
 <details>
@@ -23,6 +25,4 @@
 |     5| SQL       |
 
 </details>
-- 💬 Discuss about projects and new emerging technologies.
-- 📫 Connect with me here: www.linkedin.com/in/ritik-agarwal-
-- 😄 Pronouns: He/Him
+
