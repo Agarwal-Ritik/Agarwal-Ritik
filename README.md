@@ -6,9 +6,9 @@
 <summary> 🔭 My first year projects </summary>
       | Languages/Technologies | Projects      |
       |-----------------------:|---------------|
-      |      HTML and CSS      | Spotify Clone |
-      |      HTML and CSS      | Blog page     |
-      |           C++          | Budget Manager|
+      | HTML and CSS           | Spotify Clone |
+      | HTML and CSS           | Blog page     |
+      | C++                    | Budget Manager|
 
 </details>
 <details>
