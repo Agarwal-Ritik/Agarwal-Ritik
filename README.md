@@ -6,15 +6,15 @@
 
 <details>
 <summary> 🔭 My first year projects </summary>
-      | Languages/Technologies |    Projects    |
-      |-----------------------:|----------------|
-      | HTML and CSS           | Spotify Clone  |
-      | HTML and CSS           | Blog page      |
-      | C++                    | Budget Manager |
-
+      
+     1. Spotify Clone (Using HTML and CSS)
+     2. Blog Page (Using HTML and CSS)
+     3. Budget Manager (Using C++)
 </details>
+
 <details>
 <summary>My top languages</summary>
+
 
 | Rank | Languages |
 |-----:|-----------|
