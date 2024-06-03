@@ -23,6 +23,8 @@
 |     3| HTML      |
 |     4| CSS       |
 |     5| SQL       |
+|     6| C         |
+|     7| Python    |
 
 </details>
 
