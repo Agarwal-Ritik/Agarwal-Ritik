@@ -7,9 +7,9 @@
 <details>
 <summary> 🔭 My first year projects </summary>
       
-     1. Spotify Clone (Using HTML and CSS)
-     2. Blog Page (Using HTML and CSS)
-     3. Budget Manager (Using C++)
+     1. Budget Manager (Using C++ and OOP)
+     2. Spotify Clone (Using HTML and CSS)
+     3. Blog Page (Using HTML and CSS)
 </details>
 
 <details>
